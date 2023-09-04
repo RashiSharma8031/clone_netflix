@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* overflow-x: hidden; */
+    
    
 
 }
@@ -24,7 +24,7 @@ body{
 
 .container .head a{
     color: aliceblue;
-    /* border: 2px solid rgb(22, 21, 21); */
+    
     padding: 8px 18px;
    
     background-color: red;
@@ -96,11 +96,7 @@ body{
     transform: translate(-50% ,-50%);
     z-index: 1000;
 
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center; */
+    
     
 }
 
@@ -111,9 +107,7 @@ body{
 
 }
 
-/* .heading{
-    padding-bottom: 20px;
-} */
+
 
 .banner .box .heading{
     display: flex;
@@ -147,7 +141,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    /* margin: 20px; */
+    
 }
 .banner .box .search input{
     font-size: 16px;
@@ -190,7 +184,7 @@ body{
 .part1 .text{
     color: antiquewhite;
     width: 40%;
-    /* margin-top: 10%; */
+   
 
 }
 .part1 .image{
@@ -211,26 +205,10 @@ body{
     
 }
 
-/* .image{
-     z-index: 2;
-}  */
 
-/* 
-.image .image2{
-    z-index: -1;
-    position: absolute;
-    overflow: hidden;
-    width: 40%;
-    height: 40%;
-    max-width: 73%;
-    max-height: 54%;
-   
-    top: 125%;
-    left: 50%
-} */
 
 .part2{
-    /* background-color: #000; */
+   
     color: antiquewhite;
     display: flex;
     flex-direction: row;
@@ -244,7 +222,7 @@ body{
 .part2 .text1{
     color: antiquewhite;
     width: 48%;
-    /* margin-top: 10%; */
+   
 }
 .part2 .text1 h1{
     font-size: 3.3rem;
@@ -266,7 +244,7 @@ body{
 
 .part4{
     position: relative;
-    /* border:  2px solid wheat; */
+   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -388,13 +366,13 @@ display: none;
 
 .last button{
     color: aliceblue;
-    /* font-weight: ; */
+    
     text-transform: uppercase;
-    /* letter-spacing: 0.1px; */
+    
     border-radius: 0px 4px 4px 0px;
     background-color: red;
     font-size: 2rem;
-    /* min-width: 310px; */
+    
    line-height:  60px;
     padding: 0 30px;
 }
